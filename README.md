@@ -1,5 +1,3 @@
-# fabric
-
 ## Project setup
 ```
 npm install
